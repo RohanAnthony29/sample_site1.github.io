@@ -32,7 +32,7 @@ scrollToTopButton.addEventListener('click', () => {
 
 // Typewriter Effect
 const typewriter = document.querySelector('.typewriter');
-const textArray = ["Hello!", "Hola!", "Bonjour!", "Hallo!", "Ciao!", "Olá!","مرحبا"];
+const textArray = ["Hello!!! work on this site Bruhhh"];
 let textIndex = 0;
 let charIndex = 0;
 
